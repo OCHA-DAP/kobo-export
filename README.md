@@ -17,11 +17,9 @@ Alternatively, you can copy the file kobo-api-config.sh.TEMPLATE to kobo-api-con
 
 # Usage
 
-Once the environment variables are set up, simple invoke
+Once the environment variables are set up the following command will download the latest results from your Kobo project and dump them to standard output:
 
     $ sh kobo-export.sh
-
-to download the latest data from your Kobo project and dump it to standard output.
 
 # License
 

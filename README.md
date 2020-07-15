@@ -3,6 +3,10 @@ kobo-export
 
 Simple shell script for exporting private datasets from https://kobo.humanitarianresponse.info , a survey tool that is available free for use by the humanitarian-aid community.
 
+# Prerequisites
+
+You need a Unix Bourne-style shell (like sh (1) or bash (1), and the programs curl (1) and jq (1) installed on your system. You will also need an account on https://kobo.humanitarianresponse.info and an active survey project. 
+
 # Setup
 
 You will need to set two environment variables to use this script:

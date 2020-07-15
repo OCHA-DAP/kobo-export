@@ -27,4 +27,4 @@ Once the environment variables are set up the following command will download th
 
 ## License
 
-This code is released into the Public Domain
+This code is released into the Public Domain. See UNLICENSE.md for details.

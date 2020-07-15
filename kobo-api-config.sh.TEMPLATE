@@ -1,0 +1,14 @@
+#!/bin/sh
+########################################################################
+# Set up private configuration variables for KoBo
+########################################################################
+
+KOBO_DOMAIN="https://kobo.humanitarianresponse.info/"
+export KOBO_DOMAIN
+
+KOBO_ASSET_UID="<Kobo project asset UID>"
+export KOBO_ASSET_UID
+
+KOBO_API_TOKEN="<Kobo private API token>"
+export KOBO_API_TOKEN
+
